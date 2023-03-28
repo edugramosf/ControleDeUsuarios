@@ -3,8 +3,6 @@
 
 // Write your JavaScript code.
 
-let table = new DataTable('#table-contatos');
-
 
 $(document).ready(function () {
     $('#table-contatos').DataTable();
